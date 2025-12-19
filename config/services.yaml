@@ -1,0 +1,91 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/services/
+
+- Hypervisor:
+  - Proxmox:
+      icon: proxmox.png
+      href: "{{HOMEPAGE_VAR_PROXMOX_URL}}"
+      description: Proxmox VE
+      widget:
+        type: proxmox
+        url: "{{HOMEPAGE_VAR_PROXMOX_URL}}"
+        username:  "{{HOMEPAGE_VAR_PROXMOX_USER}}"
+        password:  "{{HOMEPAGE_VAR_PROXMOX_API_KEY}}"
+- Network:
+  - Unifi:
+      icon: unifi.svg
+      href: "{{HOMEPAGE_VAR_UNIFI_NETWORK_URL}}"
+      description: network
+      widget:
+        type: unifi
+        url: "{{HOMEPAGE_VAR_UNIFI_NETWORK_URL}}"
+        username:  "{{HOMEPAGE_VAR_UNIFI_NETWORK_USERNAME}}"
+        password:  "{{HOMEPAGE_VAR_UNIFI_NETWORK_PASSWORD}}"
+- Media:
+    - Plex:
+        icon: plex.svg
+        href: "{{HOMEPAGE_VAR_PLEX_URL}}"
+        description: media server
+        widget:
+            type: plex
+            url: "{{HOMEPAGE_VAR_PLEX_URL}}"
+            key: "{{HOMEPAGE_VAR_PLEX_API_TOKEN}}"
+    - HDHomerun:
+            icon: hdhomerun.png
+            href: "{{HOMEPAGE_VAR_HDHOMERUN_URL}}"
+            description: OTA TV
+            widget:
+                type: hdhomerun
+                url: "{{HOMEPAGE_VAR_HDHOMERUN_URL}}"
+- Containers:
+    - Portainer:
+        icon: portainer.svg
+        href: "{{HOMEPAGE_VAR_PORTAINER_URL}}"
+        description: docker
+        widget:
+            type: portainer
+            url: "{{HOMEPAGE_VAR_PORTAINER_URL}}"
+            env: 3
+            key: "{{HOMEPAGE_VAR_PORTAINER_API_KEY}}"
+    - Homebridge:
+        icon: homebridge.svg
+        href: "{{HOMEPAGE_VAR_HOMEBRIDGE_URL}}"
+        description: docker
+    - Mealie:
+        icon: mealie.svg
+        href: "{{HOMEPAGE_VAR_MEALIE_URL}}"
+        description: docker
+    - Scrypted:
+        icon: scrypted.png
+        href: "{{HOMEPAGE_VAR_SCRYPTED_URL}}"
+        description: docker
+    - Transmission:
+        icon: transmission.svg
+        href: "{{HOMEPAGE_VAR_TRANSMISSION_URL}}"
+        description: docker
+- Ad Block:
+  - PiHole:
+      icon: pi-hole.svg
+      href: "{{HOMEPAGE_VAR_PIHOLE_NETWORK_URL_DASH}}"
+      description: network ad blocker
+      widget:
+        type: pihole
+        url: "{{HOMEPAGE_VAR_PIHOLE_NETWORK_URL}}"
+        version: 6
+        key: "{{HOMEPAGE_VAR_PIHOLE_API_KEY}}"
+- Storage:
+    - SYNNAS1:
+        icon: synology.png
+        href: "{{HOMEPAGE_VAR_NAS_URL}}"
+        description: Synology Diskstation
+        widget:
+            type: diskstation
+            url: "{{HOMEPAGE_VAR_NAS_URL}}"
+            username: "{{HOMEPAGE_VAR_NAS_NAM}}"
+            password: "{{HOMEPAGE_VAR_NAS_PAS}}"
+            method: GET
+            fields:
+                - uptime
+                - resources.cpu
+                - resources.mem
