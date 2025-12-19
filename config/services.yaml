@@ -31,6 +31,16 @@
             type: plex
             url: "{{HOMEPAGE_VAR_PLEX_URL}}"
             key: "{{HOMEPAGE_VAR_PLEX_API_TOKEN}}"
+    - Tautulli:
+        icon: tautulli.svg
+        href: "{{HOMEPAGE_VAR_TAUTULLI_URL}}"
+        description: plex stats
+        widget:
+            type: tautulli
+            url: "{{HOMEPAGE_VAR_TAUTULLI_URL}}"
+            key: "{{HOMEPAGE_VAR_TAUTULLI_API_KEY}}"
+            showEpisodeNumber: true
+            expandOneStreamToTwoRows: false
     - HDHomerun:
             icon: hdhomerun.png
             href: "{{HOMEPAGE_VAR_HDHOMERUN_URL}}"
@@ -52,10 +62,20 @@
         icon: homebridge.svg
         href: "{{HOMEPAGE_VAR_HOMEBRIDGE_URL}}"
         description: docker
+        widget:
+          type: homebridge
+          url: "{{HOMEPAGE_VAR_HOMEBRIDGE_URL}}"
+          username: "{{HOMEPAGE_VAR_HOMEBRIDGE_NAME}}"
+          password: "{{HOMEPAGE_VAR_HOMEBRIDGE_PASS}}"
     - Mealie:
         icon: mealie.svg
         href: "{{HOMEPAGE_VAR_MEALIE_URL}}"
         description: docker
+        widget:
+          type: mealie
+          url: "{{HOMEPAGE_VAR_MEALIE_URL}}"
+          key: "{{HOMEPAGE_VAR_MEALIE_API_KEY}}"
+          version: 3
     - Scrypted:
         icon: scrypted.png
         href: "{{HOMEPAGE_VAR_SCRYPTED_URL}}"

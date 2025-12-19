@@ -38,4 +38,4 @@ layout:
     Media:
         header: true
         style: row
-        columns: 2
+        columns: 3

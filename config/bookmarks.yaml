@@ -18,9 +18,27 @@
           href: https://youtube.com/
 
 - UWM:
+    - Asana:
+        - icon: asana.png
+          href: https://app.asana.com
+    - Workday:
+        - abbr: WD
+          href: https://www.myworkday.com/wisconsin/
     - Neurons:
         - abbr: NR
           href: https://uwm-amc.ivanticloud.com/
     - Web Project Docs:
         - abbr: WB
           href: https://panthers.sharepoint.com/sites/MarComm-Group/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMarComm%2DGroup%2FShared%20Documents%2FWeb%2FProject%20Documents&viewid=ca2dea7d%2D05cf%2D4fbb%2D8949%2D62725b52b7a0
+    - WebID2 Documentation:
+        - abbr: WD
+          href: https://uwm.edu/web/documentation-guides/
+    - WebID2 Patterns & Layouts:
+        - abbr: WPL
+          href: https://uwm.edu/web/documentation-guides/patterns-page-layouts-library/
+    - WebID2 Demo Site:
+        - abbr: WDM
+          href: https://wwwdev.uwm.edu/webid2-demo/web/
+    - Universal Header / Footer:
+        - abbr: UHF
+          href: https://panthers.sharepoint.com/sites/UWMMarCommProjects-Group-WebID2-SubsiteUniversalHeaderandFooter/Shared%20Documents/Forms/AllItems.aspx
