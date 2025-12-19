@@ -1211,3 +1211,15 @@
 [2025-12-19T13:20:27.185Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info&type="storage".  code: 400, error: Authentication failed..
 [2025-12-19T13:20:27.203Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
 [2025-12-19T13:20:27.203Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info.  code: 400, error: Authentication failed..
+[2025-12-19T13:43:52.248Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:43:52.248Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info.  code: 400, error: Authentication failed..
+[2025-12-19T13:43:52.257Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:43:52.257Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info&type="storage".  code: 400, error: Authentication failed..
+[2025-12-19T13:43:52.277Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:43:52.278Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System.Utilization&version=1&method=get.  code: 400, error: Authentication failed..
+[2025-12-19T13:44:13.770Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:44:13.771Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info.  code: 400, error: Authentication failed..
+[2025-12-19T13:44:13.810Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:44:13.810Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info&type="storage".  code: 400, error: Authentication failed..
+[2025-12-19T13:44:13.832Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
+[2025-12-19T13:44:13.832Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System.Utilization&version=1&method=get.  code: 400, error: Authentication failed..
