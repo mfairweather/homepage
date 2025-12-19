@@ -75,17 +75,13 @@
         version: 6
         key: "{{HOMEPAGE_VAR_PIHOLE_API_KEY}}"
 - Storage:
-    - SYNNAS1:
+    - NAS:
         icon: synology.png
         href: "{{HOMEPAGE_VAR_NAS_URL}}"
         description: Synology Diskstation
         widget:
             type: diskstation
             url: "{{HOMEPAGE_VAR_NAS_URL}}"
-            username: "{{HOMEPAGE_VAR_NAS_NAM}}"
-            password: "{{HOMEPAGE_VAR_NAS_PAS}}"
-            method: GET
-            fields:
-                - uptime
-                - resources.cpu
-                - resources.mem
+            username: "{{HOMEPAGE_VAR_NAS_NAME}}"
+            password: "{{HOMEPAGE_VAR_NAS_PASS}}"
+            volume: volume_1
