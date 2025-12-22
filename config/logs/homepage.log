@@ -1265,3 +1265,146 @@
 [2025-12-19T14:11:16.138Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info&type="storage".  code: 400, error: Authentication failed..
 [2025-12-19T14:11:16.991Z] warn: <synologyProxyHandler> Unable to login.  Code: 400
 [2025-12-19T14:11:16.991Z] warn: <synologyProxyHandler> Unable to call http://192.168.0.156:5000/webapi/entry.cgi?api=SYNO.Core.System&version=3&method=info.  code: 400, error: Authentication failed..
+[2025-12-22T19:22:31.539Z] warn: <resources> Drive not found for target: /sda
+[2025-12-22T19:26:52.055Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:26:55.051Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:26:58.217Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:01.244Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:14.186Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:14.672Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:17.660Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:20.673Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:23.779Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:46.442Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:46.611Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:47.941Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:50.982Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:53.999Z] warn: <resources> Drive not found for target: [object Object]
+[2025-12-22T19:27:54.514Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:27:57.501Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:29:53.020Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:29:53.505Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:29:56.500Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:29:59.515Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:02.790Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:05.818Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:08.848Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:26.428Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:26.931Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:29.911Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:32.927Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:35.993Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:30:39.032Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:32:08.189Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:32:08.537Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:32:11.538Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:32:14.264Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:33:13.981Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:33:14.154Z] warn: <resources> Drive not found for target: /host/
+[2025-12-22T19:33:17.174Z] warn: <resources> Drive not found for target: /host/
+[2025-12-22T19:33:19.854Z] warn: <resources> Drive not found for target: /host/
+[2025-12-22T19:35:49.535Z] warn: <resources> Drive not found for target: /host/
+[2025-12-22T19:35:49.720Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:35:52.697Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:35:55.139Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:35:57.217Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:18.265Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:20.810Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:23.825Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:26.848Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:29.878Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:32.954Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:35.981Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:38.994Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:42.011Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:45.029Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:36:48.048Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:37:25.600Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:37:59.137Z] error: <httpProxy> Error calling http://localhost:61208/api/3/cpu...
+[2025-12-22T19:37:59.140Z] error: <httpProxy> [ 500, [AggregateError: ] { code: 'ECONNREFUSED' } ]
+[2025-12-22T19:37:59.140Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2025-12-22T19:38:02.132Z] error: <httpProxy> Error calling http://localhost:61208/api/3/cpu...
+[2025-12-22T19:38:02.133Z] error: <httpProxy> [ 500, [AggregateError: ] { code: 'ECONNREFUSED' } ]
+[2025-12-22T19:38:02.133Z] error: <glances> HTTP 500 getting data from glances API. Data: [object Object]
+[2025-12-22T19:39:26.984Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:29.979Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:33.066Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:36.084Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:39.152Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:42.114Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:39:42.321Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:43.544Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:43.814Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:43.986Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:46.996Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:50.070Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:52.153Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:39:52.336Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:40:33.255Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:40:33.455Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:40:34.943Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:40:37.983Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:40:41.054Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:40:44.136Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:40:47.154Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:42:42.958Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:42:43.561Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:42:44.816Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:42:45.370Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:42:45.854Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:42:48.858Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:42:51.920Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:43:11.449Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:43:14.618Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:43:17.672Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:44:29.118Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:44:29.647Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:44:32.644Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:44:35.658Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:45:04.598Z] warn: <resources> Drive not found for target: /host
+[2025-12-22T19:45:04.826Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:45:07.421Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:45:10.422Z] warn: <resources> Drive not found for target: /
+[2025-12-22T19:46:58.059Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:01.037Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:04.051Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:07.169Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:10.210Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:13.269Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T19:47:16.298Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T20:01:37.928Z] error: undefined
+[2025-12-22T20:02:11.138Z] error: <glances> HTTP 404 getting data from glances API. Data: {"detail":"Not Found"}
+[2025-12-22T20:03:41.539Z] error: undefined
+[2025-12-22T20:31:28.697Z] error: <httpProxy> Error calling http://192.168.0.102:32400/status/sessions...
+[2025-12-22T20:31:28.705Z] error: undefined
+[2025-12-22T20:31:28.704Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2025-12-22T20:31:28.704Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2025-12-22T20:31:28.706Z] error: <httpProxy> Error calling http://192.168.0.102:32400/status/sessions...
+[2025-12-22T20:31:28.707Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2025-12-22T20:31:28.707Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2025-12-22T20:31:28.708Z] error: <httpProxy> Error calling http://192.168.0.102:32400/status/sessions...
+[2025-12-22T20:31:28.708Z] error: <httpProxy> [
+  500,
+  [Error: read ECONNRESET] {
+    errno: -104,
+    code: 'ECONNRESET',
+    syscall: 'read'
+  }
+]
+[2025-12-22T20:31:28.709Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
+[2025-12-22T20:31:28.707Z] error: undefined
+[2025-12-22T20:31:28.709Z] error: undefined
