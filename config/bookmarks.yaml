@@ -4,18 +4,33 @@
 
 - Developer:
     - Github:
-        - abbr: GH
+        - icon: github.svg
           href: https://github.com/
+    - Plex LXC Hardware Transcoding:
+        - icon: plex.svg
+          href: https://www.derekseaman.com/2023/04/proxmox-plex-lxc-with-alder-lake-transcoding.html
+    - Plex LXC Migration:
+        - icon: plex.svg
+          href: https://www.derekseaman.com/2023/04/migration-guide-plex-on-synology-to-proxmox-lxc.html
+    - Proxmox Helper Scripts:
+        - icon: proxmox.svg
+          href: https://community-scripts.github.io/ProxmoxVE/
+    - Proxmox Iris XE Passthrough:
+        - icon: proxmox.svg
+          href: https://www.derekseaman.com/2024/07/proxmox-ve-8-2-windows-11-vgpu-vt-d-passthrough-with-intel-alder-lake.html
 
 - Social:
     - Reddit:
-        - abbr: RE
+        - icon: reddit.svg
           href: https://old.reddit.com/
 
 - Entertainment:
     - YouTube:
-        - abbr: YT
+        - icon: youtube.svg
           href: https://youtube.com/
+    - Crackstreams:
+        - abbr: CS
+          href: https://crackstreams.ms/
 
 - UWM:
     - Asana:
