@@ -84,6 +84,10 @@
         icon: transmission.svg
         href: "{{HOMEPAGE_VAR_TRANSMISSION_URL}}"
         description: docker
+    - Open Speed Test:
+        icon: openspeedtest.svg
+        href: "{{HOMEPAGE_VAR_SPEEDTEST_URL}}"
+        description: docker
 - Ad Block:
   - PiHole:
       icon: pi-hole.svg
