@@ -88,6 +88,10 @@
         icon: openspeedtest.svg
         href: "{{HOMEPAGE_VAR_SPEEDTEST_URL}}"
         description: docker
+    - Glances:
+        icon: glances.svg
+        href: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+        description: docker
 - Ad Block:
   - PiHole:
       icon: pi-hole.svg
