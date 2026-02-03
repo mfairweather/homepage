@@ -1408,3 +1408,14 @@
 [2025-12-22T20:31:28.709Z] error: <plexProxyHandler> HTTP 500 communicating with Plex. Data: [object Object]
 [2025-12-22T20:31:28.707Z] error: undefined
 [2025-12-22T20:31:28.709Z] error: undefined
+[2026-01-08T21:49:13.732Z] error: <unifiProxyHandler> HTTP 502 getting data from Unifi endpoint https://192.168.0.1/proxy/network/api/stat/sites. Data: {"error":{"code":502,"message":"Bad Gateway"}}
+[2026-02-02T18:43:54.018Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-02-02T18:43:54.027Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]

@@ -7,3 +7,4 @@ assets-*
 *code-*
 config/logs
 config/logs/*
+config/logs/homepage.log
