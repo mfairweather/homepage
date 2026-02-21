@@ -1419,3 +1419,152 @@
     hostname: 'api.github.com'
   }
 ]
+[2026-02-17T19:29:30.704Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.716Z] error: Failed to load services.yaml, please check for errors
+[2026-02-17T19:29:30.716Z] error: TypeError: b[c].forEach is not a function
+[2026-02-17T19:29:30.717Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.718Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.721Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.722Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.722Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.733Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.734Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.735Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.736Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.737Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.751Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.752Z] error: <servicesProxy> TypeError: b[c].forEach is not a function
+    at /app/.next/server/chunks/6905.js:1:14292
+    at Array.map (<anonymous>)
+    at a (/app/.next/server/chunks/6905.js:1:14238)
+    at r (/app/.next/server/chunks/6905.js:1:14607)
+    at async v (/app/.next/server/chunks/6905.js:1:16734)
+    at async w (/app/.next/server/chunks/6905.js:1:17013)
+    at async l (/app/.next/server/pages/api/services/proxy.js:25:42683)
+    at async ts (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:100925)
+    at async to.render (/app/node_modules/.pnpm/next@15.5.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/compiled/next-server/pages-api.runtime.prod.js:1:101640)
+    at async Module.m (/app/.next/server/pages/api/services/proxy.js:25:27762)
+[2026-02-17T19:29:30.754Z] error: Failed to load services.yaml, please check for errors
+[2026-02-17T19:29:30.754Z] error: TypeError: b[c].forEach is not a function
+[2026-02-17T19:29:30.885Z] error: Failed to load services.yaml, please check for errors
+[2026-02-17T19:29:30.885Z] error: TypeError: b[c].forEach is not a function
