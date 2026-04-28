@@ -51,7 +51,7 @@
 - Containers:
     - Portainer:
         icon: portainer.svg
-        href: "{{HOMEPAGE_VAR_PORTAINER_URL}}"
+        href: http://portainer.home
         description: docker
         widget:
             type: portainer
@@ -69,7 +69,7 @@
           password: "{{HOMEPAGE_VAR_HOMEBRIDGE_PASS}}"
     - Mealie:
         icon: mealie.svg
-        href: "{{HOMEPAGE_VAR_MEALIE_URL}}"
+        href: http://mealie.home
         description: docker
         widget:
           type: mealie
@@ -82,7 +82,7 @@
         description: docker
     - Transmission:
         icon: transmission.svg
-        href: "{{HOMEPAGE_VAR_TRANSMISSION_URL}}"
+        href: http://transmission.home
         description: docker
     - Open Speed Test:
         icon: openspeedtest.svg
@@ -90,7 +90,7 @@
         description: docker
     - Glances:
         icon: glances.svg
-        href: "{{HOMEPAGE_VAR_GLANCES_URL}}"
+        href: http://glances.home
         description: docker
 - Ad Block:
   - PiHole:
